@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Augustine0306/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119404460/301b2233-1e81-4866-9215-3635bb533d88)
 
-### Name:
-### Register Number:
+### Name: LEANN JOBY MATHEW
+### Register Number:212222230074
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
